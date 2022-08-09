@@ -4,9 +4,11 @@
 <div align="center" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjaewhan"/>
   <h2>About Me</h2>
-  한국외국어대학교<br>
-  전공 - 영어학과<br>
-  부전공 - 컴퓨터전자시스템공학부<br>
+  <ul align="left" style="list-style:none;">
+    <li>한국외국어대학교</li>
+    <li>전공 : 영어학과</li>
+    <li>부전공 : 컴퓨터 전자 시스템 공학부</li>
+  </ul>
   <h2>Contact</h2>
   <a href="mailto:자신의이메일"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-squareo=Naver&logoColor=white&link=mailto:jaewhan232@naver.com"/></a>
 </div>
@@ -14,7 +16,7 @@
 <br>
 <br>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamjaewhan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamjaewhan&show_icons=true&theme=tokyonight" />
   <h2>Used Skills</h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,12 +36,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/sourcetree-0052cc?style=for-the-badge&logo=sourcetree&logoColor=white">
 </div>
+<br>
+<br>
+<br>
 
 
-
-
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjaewhan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewhan232)](https://solved.ac/jaewhan232)
--->
+
