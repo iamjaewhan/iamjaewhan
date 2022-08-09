@@ -1,7 +1,7 @@
 <div class="main" style="display:flex; flex-direction:column;">
 <!---->
   <div class="section">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jae-wan%20jeon&fontSize=90&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jae-whan%20jeon&fontSize=90&animation=fadeIn" />
   </div>
 <!---->
   <div class="section" style="display:flex; ">
