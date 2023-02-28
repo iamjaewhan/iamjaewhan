@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7D929E&height=300&section=header&text=jae-whan%20jeon&fontSize=90&animation=fadeIn" />
 </div>
 <div align="center" >
@@ -41,5 +41,5 @@
 <br>
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewhan232)](https://solved.ac/jaewhan232)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewhan232)](https://solved.ac/jaewhan232) -->
 
